@@ -1,4 +1,4 @@
-# Informações sobre o projeto:
+**Informações sobre o projeto:**
 # Nome / Título do projeto
 Site para comércio e assinatura de planos de uma academia.
 
