@@ -1,7 +1,7 @@
 # trabalho1_daw
 Alunos presentes no grupo:
-# Hugo Biella
+Hugo Biella
 
-# Nicolas
+Nicolas
 
-# Gabriel Krishna
+Gabriel Krishna
