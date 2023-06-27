@@ -1,5 +1,5 @@
 # trabalho1_daw
-alunos presentes no grupo:
+Alunos presentes no grupo:
 # Hugo Biella
 
 # Nicolas
