@@ -2,6 +2,4 @@
 
 Hugo Biella
 
-Nicolas
-
 Gabriel Krishna
